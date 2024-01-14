@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uc-playalong.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/uc-playalong.github.io/static/js/main.40c8f236.js",
+    "static/js/787.72bd5e90.chunk.js": "/uc-playalong.github.io/static/js/787.72bd5e90.chunk.js",
+    "index.html": "/uc-playalong.github.io/index.html",
+    "main.f855e6bc.css.map": "/uc-playalong.github.io/static/css/main.f855e6bc.css.map",
+    "main.40c8f236.js.map": "/uc-playalong.github.io/static/js/main.40c8f236.js.map",
+    "787.72bd5e90.chunk.js.map": "/uc-playalong.github.io/static/js/787.72bd5e90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.40c8f236.js"
+  ]
+}
